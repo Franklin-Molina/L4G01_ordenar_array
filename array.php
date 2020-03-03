@@ -5,6 +5,7 @@
     <head>
         <h1 align="center">Ordenamiento de un array</h1>
         <h2>Metodo Borbuja</h2>
+        <h2>Metodo 2</h2>
     </head>
 
     <body>
